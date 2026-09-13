@@ -1,0 +1,4 @@
+config,dataset,ablation,seed,best_epoch,n_train,n_val,n_test,alpha,threshold,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_acc,prec_at_rec_0.2,prec_at_rec_0.4,prec_at_rec_0.6
+protocl_gnn,reveal,full,42,1,12,2,2,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+bilstm_ref,reveal,full,42,1,12,2,2,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+protocl_late_fusion,reveal,full,42,1,12,2,2,0.0,0.37499999999999994,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
