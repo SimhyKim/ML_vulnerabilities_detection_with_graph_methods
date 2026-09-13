@@ -1,0 +1,11 @@
+
+numpy>=2.0
+scikit-learn>=1.5
+datasets>=2.0
+tree-sitter==0.20.1
+tree-sitter-languages==1.7.0
+tqdm>=4.0
+pandas>=2.0
+scipy>=1.10
+networkx>=3.0
+torch-geometric>=2.5
